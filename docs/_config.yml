@@ -2,6 +2,8 @@ url: zzz.io
 title: Example Page
 baseurl: /
 
+destination: docs/_site
+
 # note: redcarpet is not supported on github pages
 markdown: kramdown
 kramdown:
